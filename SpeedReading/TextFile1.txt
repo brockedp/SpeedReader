@@ -1,0 +1,153 @@
+﻿Smartphones aren’t making millennials grow horns. Here’s how to spot a bad study
+It’s the kind of story that could sound true, but seems off.
+
+That was the feeling I got last week, when a Washington Post article — “Horns are growing on young people’s skulls. Phone use is to blame, research suggests” — appeared in my email inbox.
+
+The report covers a 2018 study published in Scientific Reports, which used head X-rays of 1,200 chiropractic patients to claim that young adults aged 18 to 30 are growing bone masses on the backs of their skulls, a supposed phenomenon that The Washington Post described as “horns” (which are technically bone spurs called enlarged external occipital protuberances — EEOPs or EOPs).
+
+A week before The Washington Post article, BBC Future published a feature story on “How modern life is transforming the human skeleton,” which featured the same study from Scientific Reports.
+
+The original study and both news stories — which have gone viral, picked up by dozens more outlets in recent days — link these alleged bone deformities to the use of mobile technology, specifically because users are bending “their heads forward to make sense of what’s happening on the miniature screens,” as the Post wrote.
+
+There’s one problem.
+
+The researchers “haven’t provided the data to back up their claim,” said John Hawks, a paleoanthropologist at the University of Wisconsin, who studies human evolution and was not involved in the study.
+
+On a basic level, the study has flaws, namely that it makes written claims that are not supported by the numbers, images and other data reported in the study itself. This isn’t a situation where a research group made a controversial discovery, and other scientists simply disagree.
+
+Scientific Reports is published by Nature Research, one of the most well-regarded science publishers in the world. Typically, all Scientific Reports papers are peer reviewed by two reviewers on average, according to a statement from the publisher. That can help safeguard against the publication of unsound research but it isn’t a guarantee. Those reviewers are typically experts in their fields of study, but it is against Nature Research’s editorial policy to reveal their names.
+
+“We are looking into issues regarding this paper and we will take action where appropriate,” a spokesperson for Scientific Reports told the PBS NewsHour on Friday.
+
+“When any concerns are raised with Scientific Reports about papers we have published, we investigate them carefully following established procedures, but we cannot comment on the specific editorial history of a particular paper published in the journal,” the Scientific Reports spokesperson stated.
+
+I asked people on Twitter if they could spot the issues with the study. (Some were more apparent than others). You can read the paper yourself, given it is open-access. I even offered clues.
+
+This isn’t the first time thin research has gone viral, but this episode involves more than just a study with a few flaws.
+
+This story became popular in part due to the nature of the modern media landscape, specifically how news organizations re-report stories, and how quickly stories steeped in moral panic are shared on social media. And recent research tells us that it is difficult, if not impossible, to correct a viral story once it has invaded the zeitgeist.
+
+So what can you do?
+
+Here’s a list of the reasons you should be skeptical of this study, ranked from obvious to expert, and some questions to ask before you share a story that seems suspicious.
+
+1. The study doesn’t actually measure cellphone usage
+This is the most basic flaw. The study does not measure the cellphone usage of its 1,200 patients.
+
+There are now smartphone apps that can record a person’s screen time, but the researchers did not employ them. I asked one of the co-authors — David Shahar, a chiropractor who specializes in biomechanics at the University of the Sunshine Coast in Australia — about why the team didn’t directly measure smartphone usage.
+
+“Other studies have reported on that issue,” Shahar, who co-authored the paper with sports biomechanicist Mark Sayers, told the PBS NewsHour via email. “This study was not about the use of mobile devices, but it is about the prevalence of EEOP across the age groups.”
+
+Still, the study starts by hypothesizing a possible link between how bad postures “associated with the emergence and extensive use of hand-held contemporary technologies, such as smartphones and tablets.”
+
+“They’re arguing that young people are spending a lot of time hunched over their laptops and their phones,” said Jeff Goldsmith, a biostatistician at Columbia University. “But they don’t actually have any data about screen time, their [subjects’] typical posture or about any of the things that might give you a way to evaluate that hypothesis.”
+
+The study assumes that the people age 18 to 30 in this study used their phones more than older subjects, based purely on the general habits of society. But Shahar and Sayers did not provide data on their subjects to support that assumption.
+
+“The overall tone of the paper is at odds with the data that they actually have to make any of these particular claims,” Goldsmith added.
+
+2. The findings mean nothing for the general population
+Shahar and Sayers write that the study “demonstrated the prevalence of [EOP] to be 33% of the total population” and that “our findings raise a concern about the future musculoskeletal health of the young adult population.”
+
+But a study must have a random, demographically representative sample in order to be applicable to the public at-large. And these subjects did not represent a general population, or close to it.
+
+“If you notice, they worked from a database that was based on people who went to the chiropractor for help, so first of all, the study is not a random, representative sample,” said Regina Nuzzo, senior advisor for statistics communication and media innovation at the American Statistical Association.
+
+Furthermore, the team may have also skewed their pool of patients by only including people from that database who reported mild symptoms. Anyone who went to a chiropractor with severe symptoms was automatically excluded from the analysis.
+
+Those excluded might have primarily been older people, given the elderly suffer from more bone issues, including these bone spurs. Indeed, Figure 3 from the paper shows their subjects older than 60 were more likely to have a posture condition — called forward head protraction — which seems to parallel an increase in EOPs, shown in Figure 4
+“The generalizations you can make from this study are very, very limited,” Nuzzo said.
+
+Despite those limitations, Shahar and Sayers argue that their “findings raise a concern about the future musculoskeletal health of the young adult population and reinforce the need for prevention intervention through posture improvement education.”
+
+On Saturday, Quartz reported that Shahar runs an online store that sells posture pillows.
+
+3. The study isn’t studying horns
+Let’s settle this horn business. The study did not look at horns. A bone spur is not a horn, as Hawks detailed in a Medium post on Thursday.
+
+A horn is made of keratin, the same material you find in animal hooves, claws and hair. Shahar told the NewsHour that he used “horn” in his interview with The Washington Post and that “it is not unusual to use descriptive terms in anatomy.”
+
+But using “horn” to describe a bone spur is like saying your elbow is a fingernail. EOPs and horns are just not created in the same way.
+
+“Even if you did have a large bone outgrowth in that area, it would not look or feel like a horn,” said Sara Becker, a bioarchaeologist at the University of California Riverside. That’s because “in living people, that area would be wrapped in muscle. Even bone spurs in other regions are hard to feel or see in most people and they may not be permanent.”
+
+Becker’s point appears to contradict what The Washington Post story said: “Those who have the hornlike feature can probably feel it.”
+
+4. If these bone spurs are happening, where are the X-rays?
+Hawks, a paleoanthropologist who specializes in bone evolution, said the study did not provide the X-rays needed to confirm that the researchers were even measuring bone spurs.
+
+Providing X-rays is important because an EOP is a trait that can develop in normal people with normal posture, Hawks said.
+
+These bones masses, which can form in various spots on a person’s skeleton, tend to appear later in life and be associated with bone diseases. One study of 3,670 rheumatology patients found 16 percent had spurs somewhere in the body. However, young, healthy people can grow these spurs too. One study of 234 healthy schoolchildren revealed these spurs 29 percent of the time.
+
+“A good example are the bones of elite tennis players, where you can see not just [these] changes but thickening to the cortical bone in the playing arm,” said Nivien Speith, a biological anthropologist and bioarchaeologist at the University of Derby. Speith also said these bone spur can disappear over the course of a person’s life.
+
+The back of the skull doesn’t only feature bone. It’s a mishmash of ligaments, connective tissues and your neck muscles, which rank among the strongest in your body. The X-rays included in the study look to be taken with different exposure conditions, Hawks said. You can see a lot of soft tissue in some, for instance, but not in others, he said. “When radiographs are being taken under different conditions like that, it is really difficult to score them consistently and to know what you’re looking at.”
+
+When asked about these additional radiographs, Shahar said he “can look into making these data available.”
+A bone spur, like those the study suggests, occurs due to the “nuchal ligament,” which originates at the neck’s base and runs up the middle until it connects to the head.
+
+“The nuchal ligament helps to stabilize your head when you run,” Hawks said. Many primates have a nuchal ligament, but only humans experience bone spurs on their necks because of the way we run: upright. The strain created by upright physical activity can cause muscles and the nuchal ligament to pull on connective tissue, which in turn can stress the bone into forming a spur.
+Hawks said when comparing ancient skeletons to those of people today, you can see humans have been gradually losing their EOPs. This is largely because as nations become more Westernized, people are less physically active.
+
+“If you really wanted to understand the back of the neck and if it’s changing,” Hawks said, “you’re going to put devices that measure muscle activity on the back of the neck to see what’s going on with their heads.” In other words, if the research team didn’t have access to a smartphone tracking app, Hawks said they could have simply examined the subjects’ neck muscles to look for signs of this strain.
+
+5. The study claims males have more of these bone spurs, but doesn’t back it up
+The study claims these bone spurs on the back of the skull predominately occurred in males. It even goes as far as to quantify the difference, stating that “sex was the primary predictor with males being 5.48 times more likely to have [EOP] than females.”
+
+This finding would actually agree with what’s known in the anthropological record. “A bigger EOP is more common in human male skeletons than female skeletons,” Becker said
+
+But the study, once again, does not show evidence for its assertion if you look at Figure 4:
+Notice that in the youngest group — 18-29 year olds — there are more females with EOPs than males. The pattern switches for those in their 40s, but otherwise there are no sex differences.
+
+When I asked Shahar about this discrepancy between his study states and what his study shows, he replied, “While I have no doubt that the 5.48 figure is correct, I must admit that I see your point about the graph.”
+
+Shahar said he would check into the data behind these figures and respond at a later time.
+
+6. The study also fails to make a clear connection to millennials
+Both Goldsmith and Nuzzo said the study did not include data behind its statistical models, which are necessary to confirm the connection between millennials and the EOPs.
+
+In Figure 4, the authors group the subjects by age and compare those groups with a statistical test called a Chi-squared. That’s problematic in this case because the way the team used the test — to arbitrarily group and contrast subjects by age — made it lose the ability to make comparisons.
+
+“That’s like a broad brush stroke. You lose all kinds of information,” Nuzzo said. You lose the ability to tell how people are changing as they age, she added. Without a more robust test, the study cannot allege a correlation between young age and EOPs.
+
+Nuzzo said instead the study should have used other statistical tests that can pull out trends in multiple variables as they change over time (like linear regressions, ANOVA or ANCOVA). “Then you’d be able to say, ‘Yes, for every year or every decade, we’re able to see a 0.1 millimeter increase in bone growth,’” she said.
+
+Shahar and Sayers have used these statistical alternatives, both in this study and others on the same subject. One in 2016 concluded young adults have an abundance of EOPs, but it didn’t look at older adults. The other in 2018 tried to make the same conclusions in healthy teenagers but only involved 4 male patients.
+
+In the latest study published in Scientific Reports, Shahar and Sayers’ linear regression test seems to stop short. Rather than use it to individually measure the influence of age, sex and forward head protraction, all of those factors are lumped together to make a connection to EOP. If the factors are grouped, you can’t point to a single one — like age — and say it is the reason for the bone spurs.
+
+They needed to do the opposite analysis — make a linear regression model that could peel apart those factors and look at how each one influences those bone spurs. Nuzzo said such an analysis is nowhere to be found in the study.
+
+“They didn’t present their results very well,” Nuzzo said.
+
+When I pointed out these statistical blips to Shahar, he responded: “Statistical analysis questions should be referred to a different person who is unavailable at this late hour.”
+
+How did this happen and why does it matter?
+The second part of this equation is how studies like these are covered by the media.
+
+An outsider perspective — from a source not involved with the research — can be invaluable when trying to put a piece of science into its appropriate context or even when deciding to pass on a story.
+
+When The Washington Post published its story early in the morning on June 20, the original version did not include an interview from a researcher who was not involved in the study. The BBC story also lacks outside commentary on Shahar and Sayers’ study.
+
+The Washington Post updated its story with additional context, more than eight hours after publication, according to the Wayback Machine. By then the story had received massive news coverage, many of which cited The Washington Post and BBC as sources.
+
+Molly Gannon, a communications manager for The Washington Post, shared this statement in response to our questions:
+
+Our story reports on the findings of studies that ran in multiple peer-reviewed journals and includes interviews with the scientists who conducted the research. It also includes an interview with an outside expert, which reflects our standard practice, and which was moved higher in the story to make it more prominent. The word ‘horns’ was used by one of the scientists.
+
+On Tuesday, The Washington Post also updated its story to include Shahar’s possible conflict of interest regarding his posture pillows company.
+
+A BBC spokesperson said “This is an article about osteobiography, of which Dr Sahar’s study was one example of many.”
+
+The weaknesses in the “horns” study are opaque to most readers. But things you can look for when you’re trying to suss out whether a science story holds up:
+
+outside commentary on the study at-hand
+clues about whether the research was peer-reviewed and by whom,
+what data the study uses as a source
+and finally: Does the study claim more than it proves?
+This last point and this episode offer a reminder about the modern news cycle.
+
+History shows us — such as with Andrew Wakefield’s retracted study on measles and autism — that the stakes are high when reporting on science and health. Such misinformation erodes the public’s ability to comprehend what is empirically right and backed by facts versus what is fiction.
+
+Even if this EOP study is retracted and every news story is corrected with additional context, people who saw the first story may not notice or see the update. Research conducted over the last decade or so shows that once an idea gains traction in people’s minds, it can repel fact-checking. Indeed, a correction can at times reinforce the misinformation.

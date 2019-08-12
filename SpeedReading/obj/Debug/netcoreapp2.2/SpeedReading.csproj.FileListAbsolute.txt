@@ -1,0 +1,11 @@
+C:\Users\Deno\source\repos\SpeedReading\SpeedReading\obj\Debug\netcoreapp2.2\SpeedReading.csprojAssemblyReference.cache
+C:\Users\Deno\source\repos\SpeedReading\SpeedReading\obj\Debug\netcoreapp2.2\SpeedReading.csproj.CoreCompileInputs.cache
+C:\Users\Deno\source\repos\SpeedReading\SpeedReading\obj\Debug\netcoreapp2.2\SpeedReading.AssemblyInfoInputs.cache
+C:\Users\Deno\source\repos\SpeedReading\SpeedReading\obj\Debug\netcoreapp2.2\SpeedReading.AssemblyInfo.cs
+C:\Users\Deno\source\repos\SpeedReading\SpeedReading\bin\Debug\netcoreapp2.2\SpeedReading.deps.json
+C:\Users\Deno\source\repos\SpeedReading\SpeedReading\bin\Debug\netcoreapp2.2\SpeedReading.runtimeconfig.json
+C:\Users\Deno\source\repos\SpeedReading\SpeedReading\bin\Debug\netcoreapp2.2\SpeedReading.runtimeconfig.dev.json
+C:\Users\Deno\source\repos\SpeedReading\SpeedReading\bin\Debug\netcoreapp2.2\SpeedReading.dll
+C:\Users\Deno\source\repos\SpeedReading\SpeedReading\bin\Debug\netcoreapp2.2\SpeedReading.pdb
+C:\Users\Deno\source\repos\SpeedReading\SpeedReading\obj\Debug\netcoreapp2.2\SpeedReading.dll
+C:\Users\Deno\source\repos\SpeedReading\SpeedReading\obj\Debug\netcoreapp2.2\SpeedReading.pdb
